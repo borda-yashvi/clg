@@ -1,0 +1,88 @@
+.navbar{
+    display: flex;
+    margin: 50px;   
+}
+.nav_h1{
+justify-content: center;
+}
+.main{
+  background-image: url("/asset/bg1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  margin: 50px;
+  height: 600px;
+}
+.main_img{
+  padding-top: 40px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+.main_a{
+  background-color: white;
+  color: black;
+  /* padding: 1em 1.5em; */
+  text-decoration: none;
+  text-transform: uppercase;
+  border: 2px solid black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%; 
+  padding: 10px;
+  text-align: center;
+}
+.main_a:hover {
+  cursor: pointer;
+}
+
+/* page_1 css*/
+
+.navbar_1{
+  justify-content: center ;
+}
+.main_1{
+  background-color: rgb(250, 185, 81);
+  border: 2px solid black;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  margin: 50px;
+   height: 600px;
+}
+.page1_h1{
+  text-align: center;
+}
+.page1_a{
+  text-align: center;
+  display: block;
+  background-color: rgb(160, 206, 221);
+  color: black;
+  padding: 0.5em 0.5em;
+  margin-left: 400px;
+  margin-right: 400px;
+  text-decoration: none;
+  text-transform:capitalize;
+  border: 2px solid black;
+}
+
+.file1{
+  background-color:whitesmoke;
+  border: 2px solid black;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  margin: 50px;
+  height: 600px;
+  
+}
+.fl_1{
+  display: flex;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.pre_1{
+  font-size: 20px;
+}
